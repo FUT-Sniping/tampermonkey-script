@@ -11,6 +11,9 @@ This Tampermonkey script provides the same functionality as our Chrome extension
 ### Step 1: Install Tampermonkey
 1. Install from the <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Chrome Web Store</a> or <a href="https://www.tampermonkey.net/" target="_blank">tampermonkey.net</a>
 2. You'll see the Tampermonkey icon in your browser toolbar
+3. Turn on **Allow User Scripts** so Tampermonkey can run the script:
+   - Right-click the Tampermonkey icon and choose **Manage Extension** (or go to `chrome://extensions` and click **Details** under Tampermonkey)
+   - Switch on the **Allow User Scripts** toggle
 
 ### Step 2: Install the Script
 1. Click the **Download** button below to install the script
@@ -29,7 +32,7 @@ This Tampermonkey script provides the same functionality as our Chrome extension
 
 ## ❓ Need Help?
 
-- **Script not working?** Make sure Tampermonkey is enabled and the script is active
+- **Script not working?** Make sure Tampermonkey is enabled, the script is active, and **Allow User Scripts** is on (see Step 1)
 - **Icon not appearing?** Refresh the page and check if the script is running
 - **Login issues?** Check your Sniping Bot account credentials
 - **Something else?** Join our <a href="https://futsnipingbot.com/discord" target="_blank">Discord server</a> and create a support ticket
